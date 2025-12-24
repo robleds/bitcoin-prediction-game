@@ -1,12 +1,12 @@
 {
-  "name": "bitcoin-prediction-game-2023",
+  "name": "bitcoin-prediction-game",
   "version": "1.0.5",
   "description": "Bitcoin price prediction game with interactive quiz for blockchain events",
   "homepage": "https://www.obatag.com.br",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/SEU-USUARIO/bitcoin-prediction-game-2023.git"
+    "url": "https://github.com/robleds/bitcoin-prediction-game.git"
   },
   "license": "ObaTag Copyrights 2023",
   "scripts": {
@@ -76,7 +76,7 @@
     ]
   },
   "author": {
-    "name": "bitcoin-prediction-game-2023",
+    "name": "bitcoin-prediction-game",
     "email": "robledo@doctorweb.com.br",
     "url": "http://doctorweb.com.br/"
   },

@@ -6,7 +6,7 @@ const title = 'Bitcoin Prediction Game';
 
 const email = 'obatag@doctorweb.com.br';
 
-const repository = 'https://github.com/SEU-USUARIO/bitcoin-prediction-game-2023';
+const repository = 'https://github.com/robleds/bitcoin-prediction-game';
 
 const messages = {
   app: {

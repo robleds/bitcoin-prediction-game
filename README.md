@@ -1,4 +1,4 @@
-# Bitcoin Prediction Game 2023
+# Bitcoin Prediction Game
 
 Jogo de previsão de preço do Bitcoin com quiz interativo
 
@@ -22,8 +22,8 @@ Plataforma web interativa desenvolvida com React e Vite que combina cotação em
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/robleds/bitcoin-prediction-game-2023.git
-cd bitcoin-prediction-game-2023
+git clone https://github.com/robleds/bitcoin-prediction-game.git
+cd bitcoin-prediction-game
 ```
 
 2. Instale as dependências:
