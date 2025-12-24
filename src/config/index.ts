@@ -2,7 +2,7 @@ import isMobile from '@/utils/is-mobile';
 
 // import type { Notifications } from './types';
 
-const title = 'Transfero';
+const title = 'Bitcoin Prediction Game';
 
 const email = 'obatag@doctorweb.com.br';
 

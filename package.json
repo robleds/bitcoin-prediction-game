@@ -1,7 +1,7 @@
 {
   "name": "bitcoin-prediction-game-2023",
   "version": "1.0.5",
-  "description": "A blockchain finance solutions company focused on enabling a more decentralized and free global system.",
+  "description": "Bitcoin price prediction game with interactive quiz for blockchain events",
   "homepage": "https://www.obatag.com.br",
   "private": true,
   "repository": {
