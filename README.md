@@ -1,17 +1,15 @@
-# bitcoin-prediction-game-2023
+# Bitcoin Prediction Game 2023
 
-Aplicação web desenvolvida para a WebSummit 2023 da Transfero.
+Jogo de previsão de preço do Bitcoin com quiz interativo
 
 ## 📋 Sobre o Projeto
 
-Aplicação web desenvolvida com React e Vite para a participação da Transfero na WebSummit 2023, oferecendo uma experiência interativa para os visitantes.
+Plataforma web interativa desenvolvida com React e Vite que combina cotação em tempo real do Bitcoin com um jogo de previsão. Os participantes podem fazer previsões sobre o preço futuro da criptomoeda e participar de quizzes relacionados a blockchain e finanças descentralizadas.
 
 ## 🛠️ Tecnologias Utilizadas
 
+- **JavaScript** - Linguagem de programação
 - **React** - Biblioteca JavaScript para construção de interfaces
-- **TypeScript** - Superset do JavaScript com tipagem estática
-- **Vite** - Build tool e dev server
-- **Material-UI** - Biblioteca de componentes UI
 
 ## 🚀 Como Configurar
 
@@ -24,7 +22,7 @@ Aplicação web desenvolvida com React e Vite para a participação da Transfero
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/bitcoin-prediction-game-2023.git
+git clone https://github.com/robleds/bitcoin-prediction-game-2023.git
 cd bitcoin-prediction-game-2023
 ```
 
@@ -50,20 +48,6 @@ yarn build
 # ou
 npm run build
 ```
-
-### Preview da Build
-```bash
-yarn preview
-# ou
-npm run preview
-```
-
-## 📝 Scripts Disponíveis
-
-- `yarn dev` - Inicia o servidor de desenvolvimento
-- `yarn build` - Cria build de produção
-- `yarn preview` - Preview da build de produção
-- `yarn lint` - Executa o linter
 
 ## 📄 Licença
 
