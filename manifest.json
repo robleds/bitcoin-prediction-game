@@ -1,7 +1,7 @@
 {
-  "name": "Transfero Websummit",
-  "short_name": "Transfero",
-  "description": "A blockchain finance solutions company focused on enabling a more decentralized and free global system.",
+  "name": "Bitcoin Prediction Game",
+  "short_name": "BTC Prediction",
+  "description": "Bitcoin price prediction game with interactive quiz for blockchain events",
   "theme_color": "#3540f2",
   "icons": [
     {
